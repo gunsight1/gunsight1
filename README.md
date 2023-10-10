@@ -1,5 +1,6 @@
-▶ 프론트,백엔드 경계의 모호한 날먹 개발자에서 근본을 갖춘 개발자로 변신을 꾀하는 사람 <br>
-▶ 귀차니즘을 잡고싶은 개발자 <br>
+▶ 2세대 개발에서 3세대 개발로 진화를 꿈꾸는 사람 <br>
+▶ 프론트,백엔드 모호한 경계에서 방향을 잡은 개발자가 되고픈 사람 <br>
+▶ 귀차니즘을 이겨내다 못해 면역이 되버린 개발자를 향하는 사람 <br>
 &emsp;&emsp;  - 귀차니즘을 잡기 위해선 같은 일을 여러번 하는 과정을 예방해야한다. <br>
 &emsp;&emsp;  - 같은 일을 여러번 하지 않기 위해선 에러를 최소화 해야한다. <br>
 &emsp;&emsp;  - 에러를 최소화 하려면 꼼꼼한 설계와 클린코드가 뒷받침 되어야 한다. <br>
@@ -25,10 +26,12 @@ Just Bring It!
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 </div>
 
-<div align=center><h1>📚 DBMS </h1></div>
+<div align=center><h1>📚 DBMS/ORM </h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mybatis-826F80?style=for-the-badge&logo=mybatis&logoColor=white">
+  <img src="https://img.shields.io/badge/ibatis-47302E?style=for-the-badge&logo=ibatis&logoColor=white">
 </div>
 
 <div align=center><h1>📚 OTHERS </h1></div>
@@ -37,6 +40,7 @@ Just Bring It!
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -44,7 +48,8 @@ Just Bring It!
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
-  
+  <br>
+  <img src="https://img.shields.io/badge/redmine-B82647.svg?style=for-the-badge&logo=redmine&logoColor=important">
   <!--
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
