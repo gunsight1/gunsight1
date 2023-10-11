@@ -29,7 +29,7 @@ Just Bring It!
 <div align=center><h1>📚 DBMS/ORM </h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
   <img src="https://img.shields.io/badge/mybatis-826F80?style=for-the-badge&logo=mybatis&logoColor=white">
   <img src="https://img.shields.io/badge/ibatis-47302E?style=for-the-badge&logo=ibatis&logoColor=white">
 </div>
