@@ -7,7 +7,7 @@
 &emsp;&emsp;  - 에러를 최소화 하려면 꼼꼼한 설계와 클린코드가 뒷받침 되어야 한다. <br>
 &emsp;&emsp;  - 클린코드가 뒷받침 되려면 언어를 잘 이해해야 한다. <br>
 &emsp;&emsp;  - 팀원들간 도메인 및 행위의 대한 액션명에 대해 비슷한 명칭이 통일되도록 하나를 예약어로 정한다.<br>
-&emsp;&emsp;&emsp;코드 컨벤션, 템플릿(기타 문서, 코드 주석 등)을 잘 정해야 한다. (to be continue...)  <br>
+&emsp;&emsp;  - 코드 컨벤션, 템플릿(기타 문서, 코드 주석 등)을 잘 정해야 한다. (to be continue...)  <br>
 
 
 <div align=center><h1>📚 FRONT </h1></div>
